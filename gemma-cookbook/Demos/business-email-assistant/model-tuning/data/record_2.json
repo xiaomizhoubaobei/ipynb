@@ -1,0 +1,16 @@
+{
+  "prompt" : "我在谷歌地图上看到了您的店铺。您出售jellabi和gulab jamun吗？",
+  "response" : {
+    "type": "inquiry",
+    "items": [
+      {
+        "name": "jellabi",
+        "quantity": null
+      },
+      {
+        "name": "gulab jamun",
+        "quantity": null
+      }
+    ]
+  }
+}

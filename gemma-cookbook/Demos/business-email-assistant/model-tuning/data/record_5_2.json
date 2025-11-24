@@ -1,0 +1,15 @@
+{
+  "prompt" : "您出售奶油奶酪糖霜的胡萝卜蛋糕吗？",
+  "response" : {
+    "type": "inquiry",
+    "items": [
+      {
+        "name": "cake",
+        "filling": "null",
+        "frosting": "cream cheese",
+        "flavor": "carrot",
+        "size": "null"
+      }
+    ]
+  }
+}

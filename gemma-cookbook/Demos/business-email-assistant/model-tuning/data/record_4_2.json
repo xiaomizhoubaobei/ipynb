@@ -1,0 +1,12 @@
+{
+  "prompt" : "请为我装一盒10个halva。",
+  "response" : {
+    "type": "order",
+    "items": [
+      {
+        "name": "halva",
+        "quantity": 10
+      }
+    ]
+  }
+}

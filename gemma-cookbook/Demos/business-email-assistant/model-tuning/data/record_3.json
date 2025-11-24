@@ -1,0 +1,15 @@
+{
+  "prompt" : "我想订购一个8英寸的红丝绒蛋糕，配柠檬糖霜和巧克力碎顶部装饰。",
+  "response" : {
+    "type": "order",
+    "items": [
+      {
+        "name": "cake",
+        "filling": "8inch",
+        "frosting": "lemon",
+        "flavor": "chocolate",
+        "size": "8 in"
+      }
+    ]
+  }
+}

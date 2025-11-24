@@ -1,0 +1,16 @@
+{
+  "prompt" : "我想要四个jellabi和三个gulab Jamun。",
+  "response" : {
+    "type": "order",
+    "items": [
+      {
+        "name": "Jellabi",
+        "quantity": 4
+      },
+      {
+        "name": "Gulab Jamun",
+        "quantity": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "prompt" : "您出售香草糖霜和内部有卡仕达酱的草莓蛋糕吗？",
+  "response" : {
+    "type": "inquiry",
+    "items": [
+      {
+        "name": "cake",
+        "filling": "custard",
+        "frosting": "vanilla",
+        "flavor": "strawberry",
+        "size": "null"
+      }
+    ]
+  }
+}

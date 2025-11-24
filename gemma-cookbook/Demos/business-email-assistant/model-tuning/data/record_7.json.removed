@@ -1,0 +1,20 @@
+{
+  "note" : "已移除。如果添加这个，模型会开始对'lemon'过拟合",
+
+  "prompt" : "我可以购买18个halva，以及一个柠檬糖霜的柠檬蛋糕吗？",
+  "response" : {
+    "type": "inquiry",
+    "items": [
+      {
+        "name": "halva",
+        "quantity": 18
+      },
+      {
+        "filling": null,
+        "frosting": "lemon",
+        "flavor": "lemon",
+        "size": null
+      }
+    ]
+  }
+}

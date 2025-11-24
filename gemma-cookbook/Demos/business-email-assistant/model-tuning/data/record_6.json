@@ -1,0 +1,8 @@
+{
+  "prompt" : "我找到了您的网站。您出售什么类型的商品？",
+  "response" : {
+    "type": "inquiry",
+    "items": [
+    ]
+  }
+}
